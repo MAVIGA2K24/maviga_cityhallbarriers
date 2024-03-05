@@ -9,5 +9,3 @@ Hello everyone,
 This time, something small. It's more intended for special events, like the visit of the President or government representatives. In front of the town hall, barricades are set up so that unauthorized individuals cannot pass through to the entrance. There are also barricades and police barriers on the sides, indicating that it is not permitted to enter. The street itself is closed on both sides, but there is still space for other vehicles.
 
 As always, NPCs circumvent the area, with walking NPCs stopping at barricades and turning back. Feedback and suggestions are always welcome. Feel free to contact me via direct message for this purpose.
-
-**Note:** The sample images serve only as creative aids for what could be done. Naturally, it's up to everyone's discretion.
